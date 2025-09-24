@@ -1,4 +1,4 @@
-# JPM Finance - Startup Profit Analyse (Dansk Version)
+# JPM Finance - Startup Profit Analyse 
 
 ## Beskrivelse
 Dette repository indeholder en komplet machine learning analyse af startup profit baseret på R&D-udgifter, markedsføringsudgifter og administrative omkostninger. Hele analysen er udført på dansk med danske forklaringer og sammenfatninger.
@@ -55,6 +55,3 @@ Dette repository indeholder en komplet machine learning analyse af startup profi
 
 ## Forfatter
 **Jonas** - Data Science og Machine Learning Analyse
-
----
-*Hele analysen er udført på dansk for at sikre klarhed og forståelighed for danske interessenter og samarbejdspartnere.*
